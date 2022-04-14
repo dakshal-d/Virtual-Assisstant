@@ -162,7 +162,7 @@ while(chance != 0):
                     os.startfile(codePath)
                 
                 elif 'open code' in query:
-                    asd = "C:\\Users\\Dakshal\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+                    asd = "C:\\Users\\D\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
                     os.startfile(asd)        
 
                 elif "day" in query:
@@ -179,7 +179,7 @@ while(chance != 0):
                     print(My_joke)
                     speak(My_joke)  
                 elif "weather" in query:
-                    api_key = "bac684aea79ab8a127d4581544983030"
+                    api_key = "enter your api key"
 
                     base_url = "https://api.openweathermap.org/data/2.5/weather?"
 
