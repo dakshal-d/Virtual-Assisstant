@@ -16,7 +16,7 @@ print ("initialising EDITH")
 MASTER = "Sir"
 chance = 3
 while(chance != 0):
-    password =((input('please authenticate sir')))
+    password =(input('please authenticate sir:'))
     cpass= '12345'
     if password == cpass:
         print("correct")
