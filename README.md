@@ -25,7 +25,6 @@ The assistant will respond to your command with either a spoken response or by o
 
 ## Customization
 If you'd like to customize the assistant's behavior or add new features, you can modify the voice_assistant.py file. Here are a few things you can do:
-
 Change the assistant's voice: the assistant uses the pyttsx3 library for text-to-speech conversion, which allows you to change the voice and speed of the assistant's speech.<br>
 Add new commands: the assistant currently recognizes a few basic commands, but you can add your own by defining new functions in the voice.py file.<br>
 Add new tasks: the assistant currently performs a few basic tasks, but you can add your own by defining new functions in the VoiceAssistant class.
