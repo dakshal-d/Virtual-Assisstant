@@ -2,14 +2,14 @@
 Python Voice Assistant<br>
 This project is a simple voice assistant created using Python. The assistant can respond to voice commands and perform tasks such as checking the weather, opening websites, and telling jokes.
 
-<b>Installation</b><br>
+## Installation<br>
 To use this voice assistant, you'll need to have Python installed on your computer. You'll also need to install a few additional packages using pip:
 
-pip install pyttsx3<br>
-pip install SpeechRecognition<br>
-pip install tkinter<br>
-pip install pyjokes<br>
-pip install pyaudio<br>
+### 'pip install pyttsx3'<br>
+### pip install SpeechRecognition<br>
+### pip install tkinter<br>
+### pip install pyjokes<br>
+### pip install pyaudio<br>
 Note: if you have trouble installing pyaudio, you may need to install PortAudio first.<br>
 And many other additional packages as shown in the voice.py file<br>
 
